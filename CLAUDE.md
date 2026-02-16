@@ -6,7 +6,7 @@ Personal portfolio website for Trang Nguyen — showcases public health communic
 ## Tech Stack
 - Static HTML/CSS/JS (no build step)
 - Password-gated via `js/auth.js` (client-side, session-based)
-- Hosted on GitHub Pages: `https://trangnguyen1230.github.io/trang-portfolio/`
+- Hosted on GitHub Pages: `https://trangnguyen1230.github.io/`
 
 ## Structure
 - `index.html` — landing / about page
